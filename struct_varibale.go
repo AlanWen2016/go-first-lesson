@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// 数组
+// 数组只能存储统一类型的数据
 type Books struct {
 	title   string
 	author  string
